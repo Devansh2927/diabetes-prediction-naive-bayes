@@ -24,4 +24,4 @@
 - app.py (if UI exists)
 
 ## 👨‍💻 Author
-<!-- Devansh Sharma -->
+Devansh Sharma
